@@ -31,7 +31,6 @@ The gradient norm plots show the RNN signal decaying toward the earliest timeste
 
 Open in Google Colab and run all cells top to bottom. No setup needed beyond a standard Colab environment.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 ## Dependencies
 
