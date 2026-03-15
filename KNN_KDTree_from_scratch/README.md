@@ -43,9 +43,6 @@ A complete implementation of KNN classification built entirely from scratch usin
 | **MNIST accuracy (K=5)** | 95%+ | identical |
 | **Predictions match** | — | ✓ all K values |
 
-![Speed crossover at ~2,500 points on 2D data](assets/speed_plot.png)
-![Accuracy curves overlap — correctness verified](assets/accuracy_plot.png)
-
 ---
 
 ## Requirements
